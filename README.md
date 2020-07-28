@@ -10,6 +10,8 @@ The Script is 100% working. The Script performs the following backups:
 3. Registry settings:
    - Mapped Network drives
    - Printers (network and PDF)
+4. The Backup script clears browser cache before beginning the backup. This helps reduce the size of the backed up data. Currently Chrome and Firefox are only cleared. More could be added if needed.   
+
 
 The Prompt for Technician, Username, and password are used for my works criteria and can be omitted or changed.
 
